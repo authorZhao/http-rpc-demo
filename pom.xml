@@ -42,7 +42,7 @@
         <mybatis.plus.version>3.2.0</mybatis.plus.version>
         <velocity.version>2.1</velocity.version>
         <guava.version>25.0-jre</guava.version>
-        <commons.io>2.6</commons.io>
+        <commons.io>2.7</commons.io>
     </properties>
 
     <dependencies>
