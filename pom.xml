@@ -28,7 +28,7 @@
         <file.encoding>UTF-8</file.encoding>
 
         <!-- version -->
-        <spring.boot.version>2.2.2.RELEASE</spring.boot.version>
+        <spring.boot.version>2.5.12</spring.boot.version>
         <dubbo.version>2.7.4.1</dubbo.version>
         <commons.fileupload.version>1.4</commons.fileupload.version>
         <mysql.connector>8.0.18</mysql.connector>
